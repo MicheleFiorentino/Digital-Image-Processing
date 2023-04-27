@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654550644 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\seg3_hough\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
+1653898935 source:c:\users\lenovo\documents\github\appuntiuni\elaborazione delle immagini\code\seg3_hough\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

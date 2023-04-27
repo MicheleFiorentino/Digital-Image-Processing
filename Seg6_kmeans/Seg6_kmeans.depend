@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654045608 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\seg6_kmeans\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<algorithm>
+	<random>
+	<time.h>
+

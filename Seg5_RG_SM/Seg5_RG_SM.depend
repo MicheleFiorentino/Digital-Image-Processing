@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654627650 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\seg5_rg_sm\main.cpp
+	<iostream>
+	<stack>
+	<opencv2/opencv.hpp>
+

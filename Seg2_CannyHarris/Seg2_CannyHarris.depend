@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654460876 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\seg2_cannyharris\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
+1653897878 source:c:\users\lenovo\documents\github\appuntiuni\elaborazione delle immagini\code\seg2_cannyharris\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

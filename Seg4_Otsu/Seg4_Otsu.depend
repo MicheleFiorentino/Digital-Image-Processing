@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653680764 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\seg4_otsu\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
