@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652185061 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\filtering1_corrconv_filter2d\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+	<string>
+

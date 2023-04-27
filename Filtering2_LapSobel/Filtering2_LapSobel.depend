@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652966440 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\filtering2_lapsobel\main.cpp
+	<iostream>
+	<algorithm>
+	<opencv2/opencv.hpp>
+	<math.h>
+

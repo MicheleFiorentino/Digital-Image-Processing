@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649342756 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\opencv_padding\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
+1649659544 source:c:\users\lenovo\documents\github\appuntiuni\elaborazione delle immagini\code\opencv_padding\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+

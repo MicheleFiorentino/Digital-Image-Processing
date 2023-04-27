@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649153794 source:c:\users\miche\documents\github\appuntiuni\elaborazione delle immagini\code\opencv_2_mat\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+
